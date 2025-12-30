@@ -1,6 +1,6 @@
 import React from "react";
-import Navbar from "./components/Navbar";
-import Card from "./components/card";
+import Navbar from "./component/Navbar";
+import Card from "./Card";
 export default function LandingPage() {
   return (
     <>
